@@ -1,0 +1,19 @@
+{
+    "name" : "kevin", 
+    "age": 15, 
+    "ville": "Puteaux", 
+    "notes" :[
+        {
+            "matiere" : "math", 
+            "note": 12
+        },
+        {
+            "matiere" : "francais", 
+            "note": 13
+        }, 
+        {
+            "matiere" : "histoire", 
+            "note": 15
+        } 
+    ]
+}
